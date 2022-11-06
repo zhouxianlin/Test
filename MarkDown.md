@@ -330,6 +330,3 @@ sequenceDiagram
     下游-->>移动: 流程结束
 ```
 
-@import "../css/markdwon.css"
-@import "../js/jquery-3.6.1.js"
-@import "../js/markdwon.js"
